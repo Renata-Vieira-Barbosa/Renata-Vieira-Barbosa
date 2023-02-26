@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AB039F&height=120&section=header"/>
+
 # Olá! Sou a Renata Vieira Barbosa
 
 - 🔭 Eu estou atualmente trabalhando como Analista de Testes
@@ -31,3 +33,5 @@
 #
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Renata-Vieira-Barbosa&bg_color=0d1117&color=AB039F&line=AB039F&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AB039F&height=120&section=footer"/>
