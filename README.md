@@ -3,8 +3,9 @@
 # Olá! Sou a Renata Vieira Barbosa
 
 - 🔭 Eu estou atualmente trabalhando como Analista de Testes
-- 🌱 Eu estou atualmente aprendendo JS
+- 🌱 Eu estou atualmente aprendendo: Cypres
 - 📫 Contate-me no Email: renata.vieira.barb@gmail.com
+- 📱Meu número de telefone: (85) 998093405
 - 😄 Pronomes: ela/dela
 
 
