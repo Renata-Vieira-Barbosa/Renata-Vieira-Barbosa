@@ -33,6 +33,6 @@
 
 #
 
-![snake gif](https://github.com/Jhonatta-Matias896/Jhonatta-Matias896/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Renata-Vieira-Barbosa/Renata-Vieira-Barbosa/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f9ff00&height=150&section=footer"/>
