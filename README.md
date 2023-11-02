@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ce2332&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#df4247&height=150&section=header"/>
 
 # Olá! Sou a Renata Vieira Barbosa
 
