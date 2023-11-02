@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f9ff00&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ce2332&height=150&section=header"/>
 
 # Olá! Sou a Renata Vieira Barbosa
 
@@ -27,12 +27,12 @@
 #
 
 <div>  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Renata-Vieira-Barbosa&show_icons=true&count_private=true&hide_border=true&title_color=f9ff00&icon_color=f9ff00&text_color=c9d1d9&bg_color=0d1117" alt="Renata-Vieira-Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renata-Vieira-Barbosa&layout=compact&hide_border=true&title_color=f9ff00&text_color=f9ff00&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Renata-Vieira-Barbosa&show_icons=true&count_private=true&hide_border=true&title_color=f9ff00&icon_color=ce2332&text_color=c9d1d9&bg_color=0d1117" alt="Renata-Vieira-Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renata-Vieira-Barbosa&layout=compact&hide_border=true&title_color=ce2332&text_color=f9ff00&bg_color=0d1117" />
 </div>
 
 #
 
 ![snake gif](https://github.com/Renata-Vieira-Barbosa/Renata-Vieira-Barbosa/blob/output/github-contribution-grid-snake.svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f9ff00&height=150&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#ce2332&height=150&section=footer"/>
