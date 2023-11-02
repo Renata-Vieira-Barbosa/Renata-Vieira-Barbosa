@@ -27,7 +27,7 @@
 #
 
 <div>  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Renata-Vieira-Barbosa&show_icons=true&count_private=true&hide_border=true&title_color=f9ff00&icon_color=f9ff00&text_color=f9ff00" alt="Renata-Vieira-Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Renata-Vieira-Barbosa&show_icons=true&count_private=true&hide_border=true&title_color=f9ff00&icon_color=f9ff00&text_color=f9ff00&bg_color=252525" alt="Renata-Vieira-Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renata-Vieira-Barbosa&layout=compact&hide_border=true&title_color=df4247&text_color=df4247&bg_color=df4247" />
 </div>
 
